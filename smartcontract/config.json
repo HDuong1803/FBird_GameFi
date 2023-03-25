@@ -1,0 +1,12 @@
+{
+  "dev": {},
+  "bsctest": {
+    "Choco": "0x122b6f155e6AE4867A7784B6A44d5babdd43BF6e",
+    "Vault": "0x387831494d1935B5877e7ad2C44d282330C54138",
+    "USDT": "0xff6791F3023b300af1d678c6C3fDFBf0d96413D8",
+    "ico": "0x5587dbd8df182bec4eFf306D5157920D0C202d62",
+    "Hero": "0x45D7E43b3E048C8E66FB113126e99751E53b4195",
+    "HeroMarketplace": "0x610e6c71bDF16881C15206bb1F8D8e27F777c4DB"
+  },
+  "main": {}
+}
